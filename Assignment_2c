@@ -1,0 +1,3 @@
+#!/bin/sh
+`touch abc.txt`
+echo "Hello Sanket Here !" > abc.txt
